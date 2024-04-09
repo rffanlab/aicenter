@@ -1,8 +1,8 @@
 package io.afu.aicenterapi.service;
 
 
-import io.afu.aitaskservice.exceptions.BaseException;
-import io.afu.aitaskservice.pojo.business.dto.wx.WxVerifyReq;
+import io.afu.aicenterapi.exceptions.BaseException;
+import io.afu.aicenterapi.pojo.business.dto.wx.WxVerifyReq;
 
 public interface WechatService {
 

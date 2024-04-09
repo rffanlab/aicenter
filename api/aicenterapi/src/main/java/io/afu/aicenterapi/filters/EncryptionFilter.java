@@ -1,7 +1,7 @@
 package io.afu.aicenterapi.filters;
 
 
-import io.afu.aitaskservice.properties.NativeryProperties;
+import io.afu.aicenterapi.properties.NativeryProperties;
 import jakarta.servlet.Filter;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

@@ -1,10 +1,10 @@
 package io.afu.aicenterapi.components;
 
-import io.afu.aitaskservice.config.sys.RabbitMQConfig;
-import io.afu.aitaskservice.pojo.business.dto.TaskResultDTO;
-import io.afu.aitaskservice.service.AitaskService;
-import io.afu.aitaskservice.utils.AESEncrypter;
-import io.afu.aitaskservice.utils.JsonUtil;
+import io.afu.aicenterapi.config.sys.RabbitMQConfig;
+import io.afu.aicenterapi.pojo.business.dto.TaskResultDTO;
+import io.afu.aicenterapi.service.AitaskService;
+import io.afu.aicenterapi.utils.AESEncrypter;
+import io.afu.aicenterapi.utils.JsonUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.beans.factory.annotation.Autowired;

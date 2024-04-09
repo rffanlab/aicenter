@@ -1,9 +1,9 @@
 package io.afu.aicenterapi.controller;
 
 
-import io.afu.aitaskservice.pojo.business.dto.SharedUrlDTO;
-import io.afu.aitaskservice.pojo.sys.vo.BaseVO;
-import io.afu.aitaskservice.service.VideoService;
+import io.afu.aicenterapi.pojo.business.dto.SharedUrlDTO;
+import io.afu.aicenterapi.pojo.sys.vo.BaseVO;
+import io.afu.aicenterapi.service.VideoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

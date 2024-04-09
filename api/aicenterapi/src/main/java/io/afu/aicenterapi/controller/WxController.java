@@ -1,8 +1,8 @@
 package io.afu.aicenterapi.controller;
 
-import io.afu.aitaskservice.pojo.business.dto.wx.WxVerifyReq;
-import io.afu.aitaskservice.service.WechatService;
-import io.afu.aitaskservice.utils.StringUtils;
+import io.afu.aicenterapi.pojo.business.dto.wx.WxVerifyReq;
+import io.afu.aicenterapi.service.WechatService;
+import io.afu.aicenterapi.utils.StringUtils;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -2,12 +2,12 @@ package io.afu.aicenterapi.filters;
 
 
 
-import io.afu.aitaskservice.pojo.sys.dto.CommonBody;
-import io.afu.aitaskservice.properties.NativeryProperties;
-import io.afu.aitaskservice.utils.AESEncrypter;
-import io.afu.aitaskservice.utils.JsonUtil;
-import io.afu.aitaskservice.utils.StringUtils;
-import io.afu.aitaskservice.utils.WebHttpUtil;
+import io.afu.aicenterapi.pojo.sys.dto.CommonBody;
+import io.afu.aicenterapi.properties.NativeryProperties;
+import io.afu.aicenterapi.utils.AESEncrypter;
+import io.afu.aicenterapi.utils.JsonUtil;
+import io.afu.aicenterapi.utils.StringUtils;
+import io.afu.aicenterapi.utils.WebHttpUtil;
 import jakarta.servlet.Filter;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ReadListener;

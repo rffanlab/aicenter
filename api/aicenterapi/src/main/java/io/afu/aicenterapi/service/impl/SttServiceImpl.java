@@ -1,16 +1,16 @@
 package io.afu.aicenterapi.service.impl;
 
-import io.afu.aitaskservice.config.sys.RabbitMQConfig;
-import io.afu.aitaskservice.dao.entity.Aitask;
-import io.afu.aitaskservice.exceptions.BaseException;
-import io.afu.aitaskservice.pojo.business.dto.TaskResultDTO;
-import io.afu.aitaskservice.pojo.business.vo.ShortVVO;
-import io.afu.aitaskservice.service.AitaskService;
-import io.afu.aitaskservice.service.SttService;
-import io.afu.aitaskservice.service.VideoService;
-import io.afu.aitaskservice.utils.AESEncrypter;
-import io.afu.aitaskservice.utils.JsonUtil;
-import io.afu.aitaskservice.utils.StringUtils;
+import io.afu.aicenterapi.config.sys.RabbitMQConfig;
+import io.afu.aicenterapi.dao.entity.Aitask;
+import io.afu.aicenterapi.exceptions.BaseException;
+import io.afu.aicenterapi.pojo.business.dto.TaskResultDTO;
+import io.afu.aicenterapi.pojo.business.vo.ShortVVO;
+import io.afu.aicenterapi.service.AitaskService;
+import io.afu.aicenterapi.service.SttService;
+import io.afu.aicenterapi.service.VideoService;
+import io.afu.aicenterapi.utils.AESEncrypter;
+import io.afu.aicenterapi.utils.JsonUtil;
+import io.afu.aicenterapi.utils.StringUtils;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.beans.factory.annotation.Autowired;

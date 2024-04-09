@@ -1,7 +1,7 @@
 package io.afu.aicenterapi.dao.mapper;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import io.afu.aitaskservice.dao.entity.Aitask;
+import io.afu.aicenterapi.dao.entity.Aitask;
 import org.apache.ibatis.annotations.Mapper;
 
 /**

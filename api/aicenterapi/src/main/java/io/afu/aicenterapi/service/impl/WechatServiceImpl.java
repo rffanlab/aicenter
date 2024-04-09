@@ -1,10 +1,10 @@
 package io.afu.aicenterapi.service.impl;
 
-import io.afu.aitaskservice.components.WechatComponent;
-import io.afu.aitaskservice.exceptions.BaseException;
-import io.afu.aitaskservice.pojo.business.dto.wx.WxVerifyReq;
-import io.afu.aitaskservice.properties.WechatProperties;
-import io.afu.aitaskservice.service.WechatService;
+import io.afu.aicenterapi.components.WechatComponent;
+import io.afu.aicenterapi.exceptions.BaseException;
+import io.afu.aicenterapi.pojo.business.dto.wx.WxVerifyReq;
+import io.afu.aicenterapi.properties.WechatProperties;
+import io.afu.aicenterapi.service.WechatService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

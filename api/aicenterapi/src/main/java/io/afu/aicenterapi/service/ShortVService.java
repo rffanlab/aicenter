@@ -1,6 +1,6 @@
 package io.afu.aicenterapi.service;
 
-import io.afu.aitaskservice.pojo.business.vo.ShortVVO;
+import io.afu.aicenterapi.pojo.business.vo.ShortVVO;
 
 public interface ShortVService {
 

@@ -239,7 +239,7 @@ public class MPGenerator {
                 .setPwd("FHiu2h3f9u2h3f#")
                 .setDbName("aitaskservice")
                 .setOutPut("C:\\projects\\codeGen")
-                .setPkg("io.afu.aitaskservice")
+                .setPkg("io.afu.aicenterapi")
                 .generator( "aitask");
     }
 

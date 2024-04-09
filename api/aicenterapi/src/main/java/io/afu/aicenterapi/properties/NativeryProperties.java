@@ -1,7 +1,7 @@
 package io.afu.aicenterapi.properties;
 
 
-import io.afu.aitaskservice.consts.sys.CacheTypeConst;
+import io.afu.aicenterapi.consts.sys.CacheTypeConst;
 import lombok.Data;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.context.properties.EnableConfigurationProperties;

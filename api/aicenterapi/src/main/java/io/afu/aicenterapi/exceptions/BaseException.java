@@ -1,7 +1,7 @@
 package io.afu.aicenterapi.exceptions;
 
 
-import io.afu.aitaskservice.enums.ErrEnum;
+import io.afu.aicenterapi.enums.ErrEnum;
 
 /**
  * @author RffanLAB.方露宇

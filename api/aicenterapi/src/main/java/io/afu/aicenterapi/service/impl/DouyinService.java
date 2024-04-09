@@ -4,12 +4,12 @@ import com.microsoft.playwright.Browser;
 import com.microsoft.playwright.BrowserType;
 import com.microsoft.playwright.Page;
 import com.microsoft.playwright.Playwright;
-import io.afu.aitaskservice.exceptions.BaseException;
-import io.afu.aitaskservice.pojo.business.vo.ShortVVO;
-import io.afu.aitaskservice.pojo.business.vo.douyin.DouyinBean;
-import io.afu.aitaskservice.service.ShortVService;
-import io.afu.aitaskservice.utils.CleanRequest;
-import io.afu.aitaskservice.utils.JsonUtil;
+import io.afu.aicenterapi.exceptions.BaseException;
+import io.afu.aicenterapi.pojo.business.vo.ShortVVO;
+import io.afu.aicenterapi.pojo.business.vo.douyin.DouyinBean;
+import io.afu.aicenterapi.service.ShortVService;
+import io.afu.aicenterapi.utils.CleanRequest;
+import io.afu.aicenterapi.utils.JsonUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

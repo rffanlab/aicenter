@@ -1,10 +1,10 @@
 package io.afu.aicenterapi.service.impl;
 
 
-import io.afu.aitaskservice.pojo.business.dto.SharedUrlDTO;
-import io.afu.aitaskservice.pojo.business.vo.ShortVVO;
-import io.afu.aitaskservice.service.ShortVService;
-import io.afu.aitaskservice.service.VideoService;
+import io.afu.aicenterapi.pojo.business.dto.SharedUrlDTO;
+import io.afu.aicenterapi.pojo.business.vo.ShortVVO;
+import io.afu.aicenterapi.service.ShortVService;
+import io.afu.aicenterapi.service.VideoService;
 import org.springframework.stereotype.Service;
 
 @Service

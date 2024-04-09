@@ -2,8 +2,8 @@ package io.afu.aicenterapi.utils;
 
 
 
-import io.afu.aitaskservice.enums.sys.BaseErr;
-import io.afu.aitaskservice.exceptions.BaseException;
+import io.afu.aicenterapi.enums.sys.BaseErr;
+import io.afu.aicenterapi.exceptions.BaseException;
 import lombok.Data;
 import lombok.extern.slf4j.Slf4j;
 

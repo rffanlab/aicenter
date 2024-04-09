@@ -5,10 +5,10 @@ import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.datatype.jsr310.JavaTimeModule;
-import io.afu.aitaskservice.exceptions.BaseException;
-import io.afu.aitaskservice.pojo.sys.vo.BaseVO;
-import io.afu.aitaskservice.utils.JsonUtil;
-import io.afu.aitaskservice.utils.WebHttpUtil;
+import io.afu.aicenterapi.exceptions.BaseException;
+import io.afu.aicenterapi.pojo.sys.vo.BaseVO;
+import io.afu.aicenterapi.utils.JsonUtil;
+import io.afu.aicenterapi.utils.WebHttpUtil;
 import jakarta.servlet.ServletRequest;
 import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
@@ -51,7 +51,7 @@ public class ApiLog {
     /**
      * 切入点为所有的请求方法
      */
-    @Pointcut(value = "execution(* io.afu.aitaskservice.controller..*.*(..)) ")
+    @Pointcut(value = "execution(* io.afu.aicenterapi.controller..*.*(..)) ")
     public void cutPostMapping() {
     }
 

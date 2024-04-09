@@ -1,9 +1,9 @@
 package io.afu.aicenterapi.service.impl;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
-import io.afu.aitaskservice.dao.entity.Aitask;
-import io.afu.aitaskservice.dao.mapper.AitaskMapper;
-import io.afu.aitaskservice.service.AitaskService;
+import io.afu.aicenterapi.dao.entity.Aitask;
+import io.afu.aicenterapi.dao.mapper.AitaskMapper;
+import io.afu.aicenterapi.service.AitaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

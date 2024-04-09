@@ -1,6 +1,6 @@
 package io.afu.aicenterapi.service;
 
-import io.afu.aitaskservice.dao.entity.Aitask;
+import io.afu.aicenterapi.dao.entity.Aitask;
 
 public interface AitaskService {
 

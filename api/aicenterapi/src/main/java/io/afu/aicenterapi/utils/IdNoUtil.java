@@ -1,7 +1,7 @@
 package io.afu.aicenterapi.utils;
 
 import cn.hutool.core.util.IdcardUtil;
-import io.afu.aitaskservice.enums.GenderEnum;
+import io.afu.aicenterapi.enums.GenderEnum;
 import jakarta.validation.constraints.NotNull;
 
 import java.time.LocalDate;

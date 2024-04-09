@@ -1,6 +1,6 @@
 package io.afu.aicenterapi.utils;
 
-import io.afu.aitaskservice.consts.sys.CommonConst;
+import io.afu.aicenterapi.consts.sys.CommonConst;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

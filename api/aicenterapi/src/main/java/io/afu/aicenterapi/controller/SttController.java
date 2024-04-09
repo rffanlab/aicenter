@@ -1,12 +1,12 @@
 package io.afu.aicenterapi.controller;
 
 
-import io.afu.aitaskservice.dao.entity.Aitask;
-import io.afu.aitaskservice.pojo.business.dto.QuerySttResultDTO;
-import io.afu.aitaskservice.pojo.business.dto.SharedUrlDTO;
-import io.afu.aitaskservice.pojo.sys.vo.BaseVO;
-import io.afu.aitaskservice.service.AitaskService;
-import io.afu.aitaskservice.service.SttService;
+import io.afu.aicenterapi.dao.entity.Aitask;
+import io.afu.aicenterapi.pojo.business.dto.QuerySttResultDTO;
+import io.afu.aicenterapi.pojo.business.dto.SharedUrlDTO;
+import io.afu.aicenterapi.pojo.sys.vo.BaseVO;
+import io.afu.aicenterapi.service.AitaskService;
+import io.afu.aicenterapi.service.SttService;
 import org.apache.ibatis.annotations.Param;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;

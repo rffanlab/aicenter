@@ -2,7 +2,7 @@ package io.afu.aicenterapi.utils;
 
 
 
-import io.afu.aitaskservice.exceptions.BaseException;
+import io.afu.aicenterapi.exceptions.BaseException;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

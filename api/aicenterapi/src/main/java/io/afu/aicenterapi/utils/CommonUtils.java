@@ -2,8 +2,8 @@ package io.afu.aicenterapi.utils;
 
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import io.afu.aitaskservice.exceptions.BaseException;
-import io.afu.aitaskservice.pojo.sys.vo.BaseVO;
+import io.afu.aicenterapi.exceptions.BaseException;
+import io.afu.aicenterapi.pojo.sys.vo.BaseVO;
 import jakarta.servlet.http.HttpServletResponse;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

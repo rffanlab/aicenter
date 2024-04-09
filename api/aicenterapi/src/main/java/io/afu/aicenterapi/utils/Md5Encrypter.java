@@ -3,8 +3,8 @@ package io.afu.aicenterapi.utils;
 
 
 
-import io.afu.aitaskservice.enums.ConstantEnum;
-import io.afu.aitaskservice.exceptions.BaseException;
+import io.afu.aicenterapi.enums.ConstantEnum;
+import io.afu.aicenterapi.exceptions.BaseException;
 
 import java.io.File;
 import java.io.FileInputStream;

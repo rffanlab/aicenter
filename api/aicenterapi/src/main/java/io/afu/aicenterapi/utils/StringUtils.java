@@ -2,7 +2,7 @@ package io.afu.aicenterapi.utils;
 
 
 
-import io.afu.aitaskservice.exceptions.BaseException;
+import io.afu.aicenterapi.exceptions.BaseException;
 
 import java.lang.reflect.Field;
 import java.math.BigDecimal;

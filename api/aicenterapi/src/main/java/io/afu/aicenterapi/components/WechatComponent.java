@@ -3,12 +3,12 @@ package io.afu.aicenterapi.components;
 
 
 
-import io.afu.aitaskservice.exceptions.BaseException;
-import io.afu.aitaskservice.pojo.business.dto.wx.WxVerifyReq;
-import io.afu.aitaskservice.pojo.business.vo.wx.WxCode2SessionResp;
-import io.afu.aitaskservice.properties.WechatProperties;
-import io.afu.aitaskservice.utils.JsonUtil;
-import io.afu.aitaskservice.utils.StringUtils;
+import io.afu.aicenterapi.exceptions.BaseException;
+import io.afu.aicenterapi.pojo.business.dto.wx.WxVerifyReq;
+import io.afu.aicenterapi.pojo.business.vo.wx.WxCode2SessionResp;
+import io.afu.aicenterapi.properties.WechatProperties;
+import io.afu.aicenterapi.utils.JsonUtil;
+import io.afu.aicenterapi.utils.StringUtils;
 import org.springframework.http.HttpEntity;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;

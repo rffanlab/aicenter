@@ -1,8 +1,8 @@
 package io.afu.aicenterapi.pojo.sys.vo;
 
 
-import io.afu.aitaskservice.enums.ConstantEnum;
-import io.afu.aitaskservice.exceptions.BaseException;
+import io.afu.aicenterapi.enums.ConstantEnum;
+import io.afu.aicenterapi.exceptions.BaseException;
 
 /**
  * @author RffanLAB.方露宇

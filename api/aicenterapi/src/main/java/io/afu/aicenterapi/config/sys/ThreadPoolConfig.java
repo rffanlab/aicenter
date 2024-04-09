@@ -2,7 +2,7 @@ package io.afu.aicenterapi.config.sys;
 
 
 
-import io.afu.aitaskservice.utils.Threads;
+import io.afu.aicenterapi.utils.Threads;
 import org.apache.commons.lang3.concurrent.BasicThreadFactory;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

@@ -1,9 +1,9 @@
 package io.afu.aicenterapi.controller;
 
-import io.afu.aitaskservice.enums.ConstantEnum;
-import io.afu.aitaskservice.exceptions.BaseException;
-import io.afu.aitaskservice.pojo.sys.vo.BaseVO;
-import io.afu.aitaskservice.utils.WebHttpUtil;
+import io.afu.aicenterapi.enums.ConstantEnum;
+import io.afu.aicenterapi.exceptions.BaseException;
+import io.afu.aicenterapi.pojo.sys.vo.BaseVO;
+import io.afu.aicenterapi.utils.WebHttpUtil;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 import org.slf4j.Logger;

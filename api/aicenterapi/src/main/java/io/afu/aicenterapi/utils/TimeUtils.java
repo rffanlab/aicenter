@@ -1,7 +1,7 @@
 package io.afu.aicenterapi.utils;
 
 
-import io.afu.aitaskservice.exceptions.BaseException;
+import io.afu.aicenterapi.exceptions.BaseException;
 
 import java.text.SimpleDateFormat;
 import java.util.Arrays;

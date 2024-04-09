@@ -1,6 +1,6 @@
 package io.afu.aicenterapi.components;
 
-import io.afu.aitaskservice.utils.AESEncrypter;
+import io.afu.aicenterapi.utils.AESEncrypter;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;

@@ -1,7 +1,7 @@
 package io.afu.aicenterapi.enums.sys;
 
 
-import io.afu.aitaskservice.enums.ErrEnum;
+import io.afu.aicenterapi.enums.ErrEnum;
 
 public enum BaseErr implements ErrEnum {
 
