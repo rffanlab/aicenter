@@ -1,6 +1,6 @@
 package io.afu.aicenterapi.llms.impl;
 
-import io.afu.aicenterapi.llms.LLM;
+import io.afu.aicenterapi.llms.LagerLanguageModel;
 
-public class Qwen implements LLM {
+public class Qwen implements LagerLanguageModel {
 }
